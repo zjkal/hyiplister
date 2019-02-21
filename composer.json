@@ -5,6 +5,7 @@
     "require": {
         "topthink/think": "dev-master"
     },
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "AL",
